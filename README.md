@@ -20,6 +20,8 @@ simple Stockfish-based Telegram bot
 ## Requirements
 - Chess
 - Stockfish
-- 
+  
 Download and unzip Stockfish files to /Stockfish
 https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip
+
+Insert your BOT Token in 'tg_api.txt' and allowed user's IDs in 'db_users.py'.
