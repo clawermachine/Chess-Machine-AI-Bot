@@ -1,0 +1,9 @@
+positions = {
+'rnbqkbnr_pppppppp_8_8_8_8_PPPPPPPP_RNBQKBNR_white':'board/pics/rnbqkbnr_pppppppp_8_8_8_8_PPPPPPPP_RNBQKBNR_white.png',
+'rnbqkbnr_pppppppp_8_8_8_7P_PPPPPPP1_RNBQKBNR_white':'board/pics/rnbqkbnr_pppppppp_8_8_8_7P_PPPPPPP1_RNBQKBNR_white.png',
+'rnbqkbnr_pppp1ppp_4p3_8_8_7P_PPPPPPP1_RNBQKBNR_white':'board/pics/rnbqkbnr_pppp1ppp_4p3_8_8_7P_PPPPPPP1_RNBQKBNR_white.png',
+'rnbqkbnr_pppp1ppp_4p3_8_7P_8_PPPPPPP1_RNBQKBNR_white':'board/pics/rnbqkbnr_pppp1ppp_4p3_8_7P_8_PPPPPPP1_RNBQKBNR_white.png',
+'rnbqkbnr_ppp2ppp_4p3_3p4_7P_8_PPPPPPP1_RNBQKBNR_white':'board/pics/rnbqkbnr_ppp2ppp_4p3_3p4_7P_8_PPPPPPP1_RNBQKBNR_white.png',
+'rnbqkbnr_pppp1ppp_8_4p3_8_7P_PPPPPPP1_RNBQKBNR_white':'board/pics/rnbqkbnr_pppp1ppp_8_4p3_8_7P_PPPPPPP1_RNBQKBNR_white.png'
+}
+#EOF
