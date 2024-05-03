@@ -16,3 +16,10 @@ simple Stockfish-based Telegram bot
 - Game with a friend
 - Rules
 - Statistics
+
+## Requirements
+- Chess
+- Stockfish
+- 
+Download and unzip Stockfish files to /Stockfish
+https://github.com/official-stockfish/Stockfish/releases/latest/download/stockfish-windows-x86-64-avx2.zip
